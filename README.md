@@ -1,8 +1,9 @@
-Setup and Run Instructions
+###Setup and Run Instructions
 Prerequisites
 Python 3.11.3
 Django (install via pip install django)
 Installation
+
 Clone the repository:
 
 git clone git@github.com:azizhmd74/NewsApi.gitt cd Test
