@@ -6,7 +6,7 @@ Installation
 
 # Clone the repository:
 
-git clone git@github.com:azizhmd74/NewsApi.gitt cd Test
+git clone [git@github.com:azizhmd74/NewsApi.gitt cd Test](https://github.com/azizhmd74/NewsApi.git)
 
 # # Create a virtual environment (optional but recommended):
 ( all after installing it - but in my case its already installed) 
